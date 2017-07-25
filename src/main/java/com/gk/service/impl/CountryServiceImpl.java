@@ -9,10 +9,6 @@ import tk.mybatis.mapper.util.StringUtil;
 
 import java.util.List;
 
-/**
- * @author liuzh_3nofxnp
- * @since 2015-09-19 17:17
- */
 @Service("countryService")
 public class CountryServiceImpl extends BaseService<Country> implements CountryService {
 
