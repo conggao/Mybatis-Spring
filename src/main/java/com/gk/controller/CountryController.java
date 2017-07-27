@@ -12,10 +12,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.util.List;
 
-/**
- * @author liuzh_3nofxnp
- * @since 2015-09-19 17:15
- */
 @Controller
 public class CountryController {
 
